@@ -52,8 +52,9 @@ The dataset is sourced from [NOAH Downloads](https://noah.up.edu.ph/) covering C
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/hazardwatch-backend.git
-cd hazardwatch-backend
+mkdir NOAH-mock-backend
+cd NOAH-mock-backend
+!unzip NOAH-Source.zip
 ```
 
 ### 2. Create a Virtual Environment
