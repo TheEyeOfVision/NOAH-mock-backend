@@ -1,12 +1,23 @@
+# Web Framework & API
 Flask==2.3.2
+Flask-CORS==3.0.10
+Flask-Limiter==3.3.0
+python-dotenv==1.0.0
+
+# Database & Spatial Support
 psycopg2-binary==2.9.6
+SQLAlchemy==2.0.15
+GeoAlchemy2==0.13.3
+
+# Data Processing & GIS
+pandas==2.0.1
+geopandas==0.13.0
+pyarrow==12.0.0
+pyogrio==0.6.0
+shapely==2.0.1
+
+# Machine Learning
 scikit-learn==1.2.2
 xgboost==1.7.5
-pandas==2.0.1
-python-dotenv==1.0.0
-Flask-Limiter==3.3.0
 joblib==1.2.0
-geopandas 
-sqlalchemy 
-geoalchemy2 
-pyarrow
+numpy==1.24.3
