@@ -1,4 +1,4 @@
-# HazardWatch Backend API
+# NOAH Backend API
 
 A geospatial backend service that serves hazard data (flood, landslide, storm surge) and determines location-based risk levels — inspired by the NOAH hazard mapping platform.
 
