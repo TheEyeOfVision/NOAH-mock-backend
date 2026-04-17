@@ -1,0 +1,12 @@
+Flask==2.3.2
+psycopg2-binary==2.9.6
+scikit-learn==1.2.2
+xgboost==1.7.5
+pandas==2.0.1
+python-dotenv==1.0.0
+Flask-Limiter==3.3.0
+joblib==1.2.0
+geopandas 
+sqlalchemy 
+geoalchemy2 
+pyarrow
